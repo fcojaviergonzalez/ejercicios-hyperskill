@@ -1,5 +1,6 @@
 '''
 Proyecto Hangman en Python by fjga
+Comentario adicional para probar Git Hub
 '''
 
 import random
