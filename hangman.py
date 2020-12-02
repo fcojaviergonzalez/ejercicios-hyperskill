@@ -2,6 +2,8 @@
 Proyecto Hangman en Python by fjga
 Comentario adicional para probar Git Hub
 otro cambio más........
+
+Otro nuevo cambio
 '''
 
 import random
